@@ -1,4 +1,4 @@
-# Laravel-BoilerPlate
+# Laravel BoilerPlate
 Laravel Boiler Plate with Admin Panel and Role Management 
 
 ## Featues
